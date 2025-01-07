@@ -1,4 +1,5 @@
 "# FidoFoodFinder" 
+
 **Fido's Food Quest 🐕**
 
 A Clojure-based pathfinding game where you help Fido navigate through mazes to find food. The program uses breadth-first search to find the optimal path and visualizes the search process.
