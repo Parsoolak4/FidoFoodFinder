@@ -10,11 +10,11 @@ Interactive menu-driven interface
 Reads custom maze maps from text files
 Visualizes the pathfinding process with:
 
-_+ marking the optimal path
++ marking the optimal path
 ! showing explored areas
 @ representing food
 # for walls
-- for open spaces_
+- for open spaces
 
 
 Supports any rectangular maze format
